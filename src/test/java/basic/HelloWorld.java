@@ -10,7 +10,7 @@ public class HelloWorld {
 	//from branch1
 	
 	public void branch() {
-		System.out.println("Hi, i am added new methoc");
+		System.out.println("Hi, i am added new method");
 	}
 	
 }
