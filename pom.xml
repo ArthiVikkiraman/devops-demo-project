@@ -3,6 +3,7 @@
   <groupId>com.demo</groupId>
   <artifactId>devops-demo-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
   <name>devops demo</name>
   <description>devops desc</description>
 </project>
